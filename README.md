@@ -12,4 +12,5 @@ For this project, your goal is to ask and answer three questions about the avail
 - Explore_bikeshare_data.html
 - Explore_bikeshare_data.ipynb
 
-
+### Credits
+- https://www.udacity.com/enrollment/nd118
